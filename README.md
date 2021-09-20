@@ -1,2 +1,2 @@
-# Stationeers.AllowAIMeERepair
-An addon that allows duct tape to repair AIMeE bots; requires Stationeers.Addons to be installed.
+# Stationeers.FixOreSensorLenses
+An addon that fixes ore processing unit offset render issue when using sensor lenses; requires Stationeers.Addons to be installed.
